@@ -21,5 +21,5 @@ redirect_from:
 
 # Academic Services
 * Conference Reviewer: NeurIPS 2022-2024, ICML 2022-2024, ICLR 2024.
-* Journal Reviewer: JMLR
+* Journal Reviewer: JMLR, TMLR
 
