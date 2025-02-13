@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 \* indicates equal contribution
+
 <b>[Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2502.05743)</b><br>
 <b>Xiao Li\*</b>, Zekai Zhang\*, Xiang Li, Siyi Chen, Zhihui Zhu, Peng Wang, Qing Qu. Preprint 2025.
 
