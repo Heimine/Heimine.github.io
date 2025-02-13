@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 \* indicates equal contribution
+<b>[Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2502.05743)</b><br>
+<b>Xiao Li\*</b>, Zekai Zhang\*, Xiang Li, Siyi Chen, Zhihui Zhu, Peng Wang, Qing Qu. Preprint 2025.
 
 <b>[Dynamic Low-rank Estimation for Transformer-based Language Models](https://aclanthology.org/2023.findings-emnlp.621.pdf)</b><br>
 Ting Hua\*, <b>Xiao Li\*</b>, Shangqian Gao, Yen-Chang Hsu, Yilin Shen, Hongxia Jin.
