@@ -15,14 +15,16 @@ Ting Hua\*, <b>Xiao Li\*</b>, Shangqian Gao, Yen-Chang Hsu, Yilin Shen, Hongxia 
 <i>The 2023 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2023 Findings</b>.
 
 <b>[Understanding Deep Representation Learning via Layerwise Feature Compression and Discrimination](https://arxiv.org/abs/2311.02960)</b><br>
-Peng Wang\*, <b>Xiao Li\*</b>, Can Yaras, Zhihui Zhu, Laura Balzano, Wei Hu, Qing Qu. Preprint 2023.
+Peng Wang\*, <b>Xiao Li\*</b>, Can Yaras, Zhihui Zhu, Laura Balzano, Wei Hu, Qing Qu.
+<i>Journal of Machine Learning Research</i>. <b>JMLR</b>.
 
 <b>[Neural Collapse in Multi-label Learning with Pick-all-label Loss](https://arxiv.org/abs/2310.15903)</b><br>
 Pengyu Li\*, <b>Xiao Li\*</b>, Yutong Wang, Qing Qu.
 <i>The 41th International Conference on Machine Learning</i>. <b>ICML 2024</b>.
 
 <b>[Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/abs/2309.10313)</b><br>
-Yuexiang Zhai, Shengbang Tong, <b>Xiao Li</b>, Mu Cai, Qing Qu, Yong Jae Lee, Yi Ma. Preprint 2023.
+Yuexiang Zhai, Shengbang Tong, <b>Xiao Li</b>, Mu Cai, Qing Qu, Yong Jae Lee, Yi Ma.
+<i>Conference on Parsimony and Learning</i>. <b>CPAL 2024</b>.
   
 <b>[Understanding and Improving Transfer Learning of Deep Models via Neural Collapse](https://arxiv.org/abs/2212.12206)</b><br>
 <b>Xiao Li\*</b>, Sheng Liu\*, Jinxin Zhou, Xinyu Lu, Carlos Fernandez-Granda, Zhihui Zhu, Qing Qu. 
