@@ -18,15 +18,21 @@ redirect_from:
 
 # News
 <ul>
-  <li><b>[Aug. 2025]</b> Paper on <i>Layerwise representation dynamics in deep networks</i> accepted at <b>JMLR</b> 
-      [<a href="https://arxiv.org/abs/2311.02960">ArXiv</a>].</li>
-  <li><b>[Feb. 2025]</b> Preprint on <i>Diffusion-based representation learning</i> released 
-      [<a href="https://arxiv.org/abs/2502.05743">ArXiv</a>].</li>
-  <li><b>[May 2024]</b> Paper on <i>Transfer learning and neural collapse</i> accepted at <b>TMLR</b> 
-      [<a href="https://arxiv.org/abs/2212.12206">ArXiv</a>]; 
-      paper on <i>Multi-label learning and neural collapse</i> accepted at <b>ICML 2024</b> 
-      [<a href="https://arxiv.org/abs/2310.15903">ArXiv</a>].</li>
+  <li><b>[Aug. 2025]</b> 
+      Paper on <a href="https://arxiv.org/abs/2311.02960">Layerwise representation dynamics in deep networks</a> 
+      accepted at <b>JMLR</b>.
+  </li>
+  <li><b>[Feb. 2025]</b> 
+      Preprint on <a href="https://arxiv.org/abs/2502.05743">Diffusion-based representation learning</a> released.
+  </li>
+  <li><b>[May 2024]</b> 
+      Paper on <a href="https://arxiv.org/abs/2212.12206">Transfer learning and neural collapse</a> 
+      accepted at <b>TMLR</b>; 
+      paper on <a href="https://arxiv.org/abs/2310.15903">Multi-label learning and neural collapse</a> 
+      accepted at <b>ICML 2024</b>.
+  </li>
 </ul>
+
 <!-- * <b>\[May 2023\]</b> I'm joining [Samsung Research America](https://sra.samsung.com/) as a Summer Research Intern.  -->
 
 # Academic Services
