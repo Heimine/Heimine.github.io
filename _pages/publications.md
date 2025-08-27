@@ -10,10 +10,6 @@ author_profile: true
 <b>[Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2502.05743)</b><br>
 <b>Xiao Li\*</b>, Zekai Zhang\*, Xiang Li, Siyi Chen, Zhihui Zhu, Peng Wang, Qing Qu. Preprint 2025.
 
-<b>[Dynamic Low-rank Estimation for Transformer-based Language Models](https://aclanthology.org/2023.findings-emnlp.621.pdf)</b><br>
-Ting Hua\*, <b>Xiao Li\*</b>, Shangqian Gao, Yen-Chang Hsu, Yilin Shen, Hongxia Jin.
-<i>The 2023 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2023 Findings</b>.
-
 <b>[Understanding Deep Representation Learning via Layerwise Feature Compression and Discrimination](https://arxiv.org/abs/2311.02960)</b><br>
 Peng Wang\*, <b>Xiao Li\*</b>, Can Yaras, Zhihui Zhu, Laura Balzano, Wei Hu, Qing Qu.
 <i>Journal of Machine Learning Research</i>. <b>JMLR</b>.
@@ -29,6 +25,10 @@ Yuexiang Zhai, Shengbang Tong, <b>Xiao Li</b>, Mu Cai, Qing Qu, Yong Jae Lee, Yi
 <b>[Understanding and Improving Transfer Learning of Deep Models via Neural Collapse](https://arxiv.org/abs/2212.12206)</b><br>
 <b>Xiao Li\*</b>, Sheng Liu\*, Jinxin Zhou, Xinyu Lu, Carlos Fernandez-Granda, Zhihui Zhu, Qing Qu. 
 <i>Transactions on Machine Learning Research</i>. <b>TMLR</b>.
+
+<b>[Dynamic Low-rank Estimation for Transformer-based Language Models](https://aclanthology.org/2023.findings-emnlp.621.pdf)</b><br>
+Ting Hua\*, <b>Xiao Li\*</b>, Shangqian Gao, Yen-Chang Hsu, Yilin Shen, Hongxia Jin.
+<i>The 2023 Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2023 Findings</b>.
 
 <b>[Are All Losses Created Equal: A Neural Collapse Perspective](https://arxiv.org/abs/2210.02192)</b><br>
 Jinxin Zhou, Chong You, <b>Xiao Li</b>, Kangning Liu, Sheng Liu, Qing Qu, Zhihui Zhu.
