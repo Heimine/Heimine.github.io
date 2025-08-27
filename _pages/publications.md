@@ -40,7 +40,7 @@ Jinxin Zhou\*, <b>Xiao Li\*</b>, Tianyu Ding, Chong You, Qing Qu, Zhihui Zhu.
 
 <b>[Deep-SMOLM: deep learning resolves the 3D orientations and 2D positions of overlapping single molecules with optimal nanoscale resolution](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-20-36761&id=505938)</b><br>
 Tingting Wu, Peng Lu, Md Ashequr Rahman, <b>Xiao Li</b>, Matthew D Lew.
-<i>Optics Express 30 (20), 36761-36773</i>. <b>Optics Expres 2022</b>.
+<i>Optics Express 30 (20), 36761-36773</i>. <b>Optics Express 2022</b>.
 
 <b>[A Geometric Analysis of Neural Collapse with Unconstrained Features](https://arxiv.org/abs/2105.02375)</b><br>
 Zhihui Zhu\*, Tianyu Ding\*, Jinxin Zhou, <b>Xiao Li</b>, Chong You, Jeremias Sulam, Qing Qu.
