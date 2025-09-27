@@ -18,12 +18,13 @@ redirect_from:
 
 # News
 <ul>
+  <li><b>[Sep. 2025]</b> 
+      Paper on <a href="https://arxiv.org/abs/2502.05743">Diffusion-based representation learning</a> 
+      accepted at <b>NeurIPS 2025</b>.
+  </li>
   <li><b>[Aug. 2025]</b> 
       Paper on <a href="https://arxiv.org/abs/2311.02960">Layerwise representation dynamics in deep networks</a> 
       accepted at <b>JMLR</b>.
-  </li>
-  <li><b>[Feb. 2025]</b> 
-      Preprint on <a href="https://arxiv.org/abs/2502.05743">Diffusion-based representation learning</a> released.
   </li>
   <li><b>[May 2024]</b> 
       Paper on <a href="https://arxiv.org/abs/2212.12206">Transfer learning and neural collapse</a> 
