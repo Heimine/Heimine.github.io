@@ -8,7 +8,8 @@ author_profile: true
 \* indicates equal contribution
 
 <b>[Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2502.05743)</b><br>
-<b>Xiao Li\*</b>, Zekai Zhang\*, Xiang Li, Siyi Chen, Zhihui Zhu, Peng Wang, Qing Qu. Preprint 2025.
+<b>Xiao Li\*</b>, Zekai Zhang\*, Xiang Li, Siyi Chen, Zhihui Zhu, Peng Wang, Qing Qu.
+<i>The 39th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2025</b>.
 
 <b>[Understanding Deep Representation Learning via Layerwise Feature Compression and Discrimination](https://arxiv.org/abs/2311.02960)</b><br>
 Peng Wang\*, <b>Xiao Li\*</b>, Can Yaras, Zhihui Zhu, Laura Balzano, Wei Hu, Qing Qu.
