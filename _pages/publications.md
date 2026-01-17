@@ -7,6 +7,9 @@ author_profile: true
 
 \* indicates equal contribution
 
+<b>[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963)</b><br>
+Zekai Zhang\*, <b>Xiao Li\*</b>, Xiang Li, Lianghe Shi, Meng Wu, Molei Tao, Qing Qu. Preprint 2025.
+
 <b>[Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2502.05743)</b><br>
 <b>Xiao Li\*</b>, Zekai Zhang\*, Xiang Li, Siyi Chen, Zhihui Zhu, Peng Wang, Qing Qu.
 <i>The 39th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2025</b>.
