@@ -8,7 +8,8 @@ author_profile: true
 \* indicates equal contribution
 
 <b>[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963)</b><br>
-Zekai Zhang\*, <b>Xiao Li\*</b>, Xiang Li, Lianghe Shi, Meng Wu, Molei Tao, Qing Qu. Preprint 2025.
+Zekai Zhang\*, <b>Xiao Li\*</b>, Xiang Li, Lianghe Shi, Meng Wu, Molei Tao, Qing Qu.
+<i>The 14th International Conference on Learning Representations</i>. <b>ICLR 2026</b>.
 
 <b>[Understanding Representation Dynamics of Diffusion Models via Low-Dimensional Modeling](https://arxiv.org/abs/2502.05743)</b><br>
 <b>Xiao Li\*</b>, Zekai Zhang\*, Xiang Li, Siyi Chen, Zhihui Zhu, Peng Wang, Qing Qu.
