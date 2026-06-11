@@ -25,17 +25,17 @@ redirect_from:
     Paper on <a href="https://arxiv.org/abs/2512.20963">how balanced representation space drives generalization in diffusion models</a> (<a href="https://la0ka1.github.io/diffusion-gen-from-rep/">project page</a>) accepted at <b>ICLR 2026</b>.
   </li>
   <li><b>[Sep. 2025]</b> 
-      Paper on <a href="https://arxiv.org/abs/2502.05743">Diffusion-based representation learning dynamics</a> 
+      Paper on <a href="https://arxiv.org/abs/2502.05743">diffusion-based representation learning dynamics</a> 
       accepted at <b>NeurIPS 2025</b>.
   </li>
   <li><b>[Aug. 2025]</b> 
-      Paper on <a href="https://arxiv.org/abs/2311.02960">Layerwise representation dynamics in deep networks</a> 
+      Paper on <a href="https://arxiv.org/abs/2311.02960">layerwise representation dynamics in deep networks</a> 
       accepted at <b>JMLR</b>.
   </li>
   <li><b>[May 2024]</b> 
-      Paper on <a href="https://arxiv.org/abs/2212.12206">Transfer learning and neural collapse</a> 
+      Paper on <a href="https://arxiv.org/abs/2212.12206">transfer learning and neural collapse</a> 
       accepted at <b>TMLR</b>; 
-      paper on <a href="https://arxiv.org/abs/2310.15903">Multi-label learning and neural collapse</a> 
+      paper on <a href="https://arxiv.org/abs/2310.15903">multi-label learning and neural collapse</a> 
       accepted at <b>ICML 2024</b>.
   </li>
 </ul>
