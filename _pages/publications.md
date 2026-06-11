@@ -7,7 +7,11 @@ author_profile: true
 
 \* indicates equal contribution
 
-<b>[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963)</b><br>
+<b>[Evaluating and Monitoring Diffusion Models via Self-Supervised Principles](https://arxiv.org/abs/2606.09718)</b> \| [Project page](https://heimine.github.io/Diffusion_ICR_REP/)<br>
+<b>Xiao Li\*</b>, Yixuan Jia\*, Zekai Zhang, Xiang Li, Lianghe Shi, Jinxin Zhou, Zhihui Zhu, Liyue Shen, Qing Qu.
+<i>The 43rd International Conference on Machine Learning</i>. <b>ICML 2026</b>.
+
+<b>[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963)</b> \| [Project page](https://la0ka1.github.io/diffusion-gen-from-rep/)<br>
 Zekai Zhang\*, <b>Xiao Li\*</b>, Xiang Li, Lianghe Shi, Meng Wu, Molei Tao, Qing Qu.
 <i>The 14th International Conference on Learning Representations</i>. <b>ICLR 2026</b>.
 
