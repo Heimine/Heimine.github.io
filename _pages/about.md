@@ -18,11 +18,11 @@ redirect_from:
 
 # News
 <ul>
-  <li><b>[May. 2026]</b> 
-      Paper on <a href="https://arxiv.org/abs/2606.09718">evaluating and monitoring diffusion model training via representation space geometry</a> accepted at <b>ICML 2026</b>.
+  <li><b>[May. 2026]</b>
+    Paper on <a href="https://arxiv.org/abs/2606.09718">evaluating and monitoring diffusion model training via representation space geometry</a> (<a href="https://heimine.github.io/Diffusion_ICR_REP/">project page</a>) accepted at <b>ICML 2026</b>.
   </li>
-  <li><b>[Dec. 2025]</b> 
-      Paper on <a href="https://arxiv.org/abs/2512.20963">how balanced representation space drives generalization in diffusion models</a> accepted at <b>ICLR 2026</b>.
+  <li><b>[Dec. 2025]</b>
+    Paper on <a href="https://arxiv.org/abs/2512.20963">how balanced representation space drives generalization in diffusion models</a> (<a href="https://la0ka1.github.io/diffusion-gen-from-rep/">project page</a>) accepted at <b>ICLR 2026</b>.
   </li>
   <li><b>[Sep. 2025]</b> 
       Paper on <a href="https://arxiv.org/abs/2502.05743">Diffusion-based representation learning dynamics</a> 
