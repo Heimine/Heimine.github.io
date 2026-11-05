@@ -12,7 +12,7 @@ redirect_from:
 
 
 # About Me        
-* I am a Ph.D. student at [EECS](https://eecs.engin.umich.edu/), [University of Michigan](https://umich.edu/), advised by [Prof. Qing Qu](https://qingqu.engin.umich.edu/). Before joining Umich, I received my undergraduate degree from the [University of Washington](https://www.washington.edu/), majoring in Mathematics, followed by a Master's degree from [NYU](https://cds.nyu.edu/) with a major in Data Science.
+* I am currently a Postdoctoral Fellow at the [University of Hong Kong](https://www.cds.hku.hk/), working with [Prof. Yi Ma](https://people.eecs.berkeley.edu/~yima/). Previously, I received my Ph.D. in [EECS](https://eecs.engin.umich.edu/) from the [University of Michigan](https://umich.edu/), where I was fortunate to be advised by [Prof. Qing Qu](https://qingqu.engin.umich.edu/). Before joining Umich, I received my undergraduate degree from the [University of Washington](https://www.washington.edu/), majoring in Mathematics, followed by a Master's degree from [NYU](https://cds.nyu.edu/) with a major in Data Science.
 
 * My research interests lie in representation learning, focusing particularly on the identification and effective utilization of low-dimensional structures and dynamics of deep networks. Besides, I'm also interested in robust deep learning, and Super-resolution microspcopy.
 
