@@ -15,7 +15,8 @@ author_profile: true
 Yixuan Jia, Siyi Chen, Yida Pan, <b>Xiao Li</b>, Lianghe Shi, Chanyong Jung, Haijie Yuan, Ismail Alkhouri, Yue Cynthia Wu, Saiprasad Ravishankar, et al. <i>arXiv preprint arXiv:2605.14285</i>. <b>2026</b>.
 
 <b>[MCLR: Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives](https://arxiv.org/abs/2603.22364)</b><br>
-Xiang Li, Yixuan Jia, <b>Xiao Li</b>, Jeffrey A. Fessler, Rongrong Wang, Qing Qu. <i>arXiv preprint arXiv:2603.22364</i>. <b>2026</b>.
+Xiang Li, Yixuan Jia, <b>Xiao Li</b>, Jeffrey A. Fessler, Rongrong Wang, Qing Qu. 
+<i>The 40th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2026</b>.
 
 <b>[Generalization of Diffusion Models Arises with a Balanced Representation Space](https://arxiv.org/abs/2512.20963)</b> \| [Project page](https://la0ka1.github.io/diffusion-gen-from-rep/)<br>
 Zekai Zhang\*, <b>Xiao Li\*</b>, Xiang Li, Lianghe Shi, Meng Wu, Molei Tao, Qing Qu.
